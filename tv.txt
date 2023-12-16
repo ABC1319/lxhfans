@@ -95,7 +95,7 @@
     },
     {
       "key": "玩偶表哥弹幕1",
-      "name": "玩偶|BG1",
+      "name": "玩偶|kG",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -118,6 +118,16 @@
             "jar": "./jar/xyq.jar",
             "ext": "./JS/玩偶哥哥.json"
     },
+    {
+            "key": "csp_woggcli",
+            "name": "玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
    {
       "key": "玩偶OG",
       "name": "玩偶┃OG",
@@ -128,16 +138,6 @@
       "filterable": 1,
       "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
       "ext": "./JS/gg.json"
-    },
-    {
-            "key": "csp_woggcli",
-            "name": "玩偶┃T4",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key": "Wogg1",
@@ -156,7 +156,7 @@
     },
     {
       "key": "Wobg",
-      "name": "玩偶┃BG2",
+      "name": "玩偶┃BG",
       "type": 3,
       "style": {
         "type": "rect",
