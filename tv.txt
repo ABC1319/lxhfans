@@ -80,7 +80,7 @@
             "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
     },
     {
-      "key": "玩偶弹幕版",
+      "key": "玩偶DM版1",
       "name": "玩偶|OK",
       "type": 3,
       "api": "csp_Wogg",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "key": "玩偶表哥弹幕",
+      "key": "玩偶表哥弹幕1",
       "name": "玩偶|BG1",
       "type": 3,
       "api": "csp_Wobg",
