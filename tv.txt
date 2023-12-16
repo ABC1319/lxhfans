@@ -103,7 +103,7 @@
     },
     {
       "key": "玩偶DM版1",
-      "name": "玩偶|OK",
+      "name": "玩偶┃OK",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -117,7 +117,7 @@
     },
     {
       "key": "玩偶表哥弹幕1",
-      "name": "玩偶|kG",
+      "name": "玩偶┃KG",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
