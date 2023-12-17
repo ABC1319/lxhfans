@@ -76,7 +76,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$https://api.wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
             "key": "csp_WoGG1",
@@ -87,7 +87,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
       "key": "csp_WoGG2",
@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
             "key": "csp_XYQHikerAL",
@@ -121,7 +121,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
     },
    {
       "key": "初见表哥",
