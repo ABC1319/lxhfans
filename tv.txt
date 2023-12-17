@@ -82,7 +82,7 @@
             "key": "csp_WoGG",
             "name": "玩偶┃FS",
             "type": 3,
-            "jar": "./jar/fan.txt",
+            "jar": "./jar/fty.jar",
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
