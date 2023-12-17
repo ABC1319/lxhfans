@@ -43,7 +43,7 @@
      "searchable":0,
      "changeable":0,
      "style":{"type":"rect","ratio":1.597},
-     "jar":"./jar/danmu.jar;md5;7cd8fbcc323844e2525595be4d5aa7eb"
+     "jar":"./HK/danmu.jar;md5;7cd8fbcc323844e2525595be4d5aa7eb"
      },
      {
       "key": "应用商店",
