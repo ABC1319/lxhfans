@@ -146,7 +146,7 @@
       }
     },
     {
-     "key": "csp_WoGG1",
+     "key": "csp_WoGG3",
      "name": "玩偶┃BY",
      "type": 3,
      "style": {
