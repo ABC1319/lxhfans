@@ -361,40 +361,8 @@
       "timeout": 60
     },
     {
-      "key": "奇艺",
-      "name": "🦁爱爱┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
-    },
-    {
-      "key": "酷酷",
-      "name": "🦝优优┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
-    {
-      "key": "腾腾",
-      "name": "🐏腾腾┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
-    },
-    {
-      "key": "芒芒",
-      "name": "🦄芒芒┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
-    },
-    {
       "key": "sohu",
-      "name": "搜搜(官)",
+      "name": "搜搜┃(官)",
       "type": 1,
       "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
       "searchable": 1,
@@ -403,7 +371,7 @@
     },  
    {
       "key": "狗狗",
-      "name": "🐕狗狗┃官源",
+      "name": "🐕狗狗┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -411,12 +379,45 @@
     },
   {
       "key": "360",
-      "name": "🐵360┃官源",
+      "name": "🐵360┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视.js"
     },
+    {
+      "key": "奇艺",
+      "name": "🦁爱爱┃(官)",
+      "type": 3,
+      "changeable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍异兽.js"
+    },
+    {
+      "key": "酷酷",
+      "name": "🦝优优┃(官)",
+      "type": 3,
+      "changeable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+    {
+      "key": "腾腾",
+      "name": "🐏腾腾┃(官)",
+      "type": 3,
+      "changeable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云驾雾.js"
+    },
+    {
+      "key": "芒芒",
+      "name": "🦄芒芒┃(官)",
+      "type": 3,
+      "changeable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
+    },
+
    
   
 #云盘搜索
