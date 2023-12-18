@@ -458,15 +458,15 @@
       "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
-      "key": "Gitcafe1",
-      "name": "纸条HK┃🍭",
-      "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
+      "key":"纸条",
+      "name":"纸条┃🍭",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_Yisou",
@@ -502,18 +502,15 @@
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
-      "key": "纸条弹幕版",
-      "name": "纸条DM┃🍭",
+      "key": "Gitcafe1",
+      "name": "纸条HK┃🍭",
       "type": 3,
-      "api": "csp_XiaoZhiTiao",
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Gitcafe",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "易搜弹幕版",
@@ -557,6 +554,20 @@
       },
       "jar": "./jar/danmu.jar"
     },
+  {
+      "key": "纸条弹幕版",
+      "name": "纸条DM┃🍭",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
  {
       "key":"七夜",
       "name":"七夜┃🍭",
@@ -592,17 +603,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
-    {
-      "key":"纸条",
-      "name":"纸条┃🍭",
-      "type":3,
-      "api":"csp_XiaoZhiTiao",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
  {
       "key": "路飞磁力",
@@ -785,7 +785,7 @@
     },
     {
       "key": "cc4",
-      "name": "12.18维护更新🍁🍀",
+      "name": "12.19维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
