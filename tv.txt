@@ -71,7 +71,7 @@
     },
    {
       "key": "玩偶哥哥PG",
-      "name": "👽玩偶┃网盘",
+      "name": "玩偶┃PG",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -82,7 +82,7 @@
     },
     {
       "key": "玩偶表哥PG",
-      "name": "🐷表哥┃网盘",
+      "name": "玩偶┃BG",
       "type": 3,
       "api": "csp_Wobg",
       "searchable": 1,
@@ -93,7 +93,7 @@
     },
    {
       "key": "Wogg",
-      "name": "玩偶┃PG",
+      "name": "玩偶┃PX",
       "type": 3,
       "style": {
         "type": "rect",
@@ -138,7 +138,7 @@
     },
     {
       "key": "Wobg",
-      "name": "玩偶┃BG",
+      "name": "玩偶┃BX",
       "type": 3,
       "style": {
         "type": "rect",
