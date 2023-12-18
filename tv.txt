@@ -343,16 +343,6 @@
       "timeout": 60
     },
     {
-      "key": "97tvs磁力",
-      "name": "🍑97tvs┃磁力",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/97tvs.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
       "key": "xb6v磁力",
       "name": "🍇新6v┃磁力",
       "type": 3,
@@ -362,48 +352,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "./lib/PG推送.json$$$http://www.xb6v.com$$$null$$$1",
-      "timeout": 60
-    },
-    {
-      "key": "荐片磁力",
-      "name": "🍈荐片┃磁力",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./json/jianpian.json$$$1",
-      "timeout": 60
-    },
-    {
-      "key": "dydhhy磁力",
-      "name": "🍅dydhhy┃磁力",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/dydhhy.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "rrdyw网盘",
-      "name": "🚒rrdyw┃网盘",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/rrdyw.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "kkpans网盘",
-      "name": "🚟kk盘┃网盘",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/kkpans.js",
-      "quickSearch": 1,
-      "changeable": 0,
       "timeout": 60
     },
     {
