@@ -338,7 +338,7 @@
     },
     {
       "key": "xb6v磁力",
-      "name": "新6v┃磁力",
+      "name": "新6v┃网盘",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
@@ -422,53 +422,7 @@
   
 #云盘搜索
 
-   {
-      "key":"七夜",
-      "name":"七夜┃🍭",
-      "type":3,
-      "api":"csp_Dovx",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "七夜弹幕版",
-      "name": "七夜DM┃🍭",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "资源HK┃🍭",
-      "type": 3,
-      "api": "csp_AliPS",
-      "jar": "./lxhfans1.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
-    {
-      "key":"纸条",
-      "name":"纸条┃🍭",
-      "type":3,
-      "api":"csp_XiaoZhiTiao",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
+  
     {
       "key":"易搜",
       "name":"易搜┃🍭",
@@ -602,6 +556,53 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+ {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "七夜DM┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "资源HK┃🍭",
+      "type": 3,
+      "api": "csp_AliPS",
+      "jar": "./lxhfans1.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
+    },
+    {
+      "key":"纸条",
+      "name":"纸条┃🍭",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
  {
       "key": "路飞磁力",
