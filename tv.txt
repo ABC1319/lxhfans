@@ -40,6 +40,7 @@
       "name": "🏬配置中心",
       "type": 3,
       "api": "csp_Config",
+      "jar":"./pg.jar"
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -63,6 +64,7 @@
       "name": "玩偶┃PG",
       "type": 3,
       "api": "csp_Wogg",
+      "jar":"./pg.jar"
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -74,6 +76,7 @@
       "name": "玩偶┃BG",
       "type": 3,
       "api": "csp_Wobg",
+      "jar":"./pg.jar"
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -89,6 +92,7 @@
         "ratio": 1.597
       },
       "api": "csp_Wogg",
+      "jar":"./pg.jar"
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
@@ -100,6 +104,7 @@
         "ratio": 1.597
       },
       "api": "csp_Wobg",
+      "jar":"./pg.jar"
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
     },
     {
@@ -132,8 +137,8 @@
             "key": "csp_WoGG1",
             "name": "玩偶┃FS",
             "type": 3,
-            "jar": "./jar/fan.txt",
             "api": "csp_WoGG",
+            "jar": "./jar/fan.txt",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -604,6 +609,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "./lib/lf_p2p2_min.js",
+      "jar":"./pg.jar"
       "ext": "",
       "timeout": 60
     },
@@ -612,6 +618,7 @@
       "name": "🦽夸克┃🍭",
       "type": 3,
       "api": "csp_QuarkPanSo",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -624,6 +631,7 @@
       "name": "🎠云盘┃🍭",
       "type": 3,
       "api": "csp_YunPanOne",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -636,6 +644,7 @@
       "name": "🛺小云┃🍭",
       "type": 3,
       "api": "csp_YunSo",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -648,6 +657,7 @@
       "name": "🚲七夜┃🍭",
       "type": 3,
       "api": "csp_Dovx",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -660,6 +670,7 @@
       "name": "🛸易搜┃🍭",
       "type": 3,
       "api": "csp_YiSo",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -672,6 +683,7 @@
       "name": "🚁Up搜┃🍭",
       "type": 3,
       "api": "csp_UpYun",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -684,6 +696,7 @@
       "name": "🚢盘搜┃🍭",
       "type": 3,
       "api": "csp_PanSearch",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -696,6 +709,7 @@
       "name": "🚃纸条┃🍭",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -708,6 +722,7 @@
       "name": "🚂喵狸┃🍭",
       "type": 3,
       "api": "csp_PanSou",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -720,6 +735,7 @@
       "name": "🛴爱盘┃🍭",
       "type": 3,
       "api": "./lib/drpy2.min.js",
+      "jar":"./pg.jar"
       "ext": "./lib/aipanso.js",
       "quickSearch": 1,
       "changeable": 0,
@@ -730,6 +746,7 @@
       "name": "🏍趣盘┃🍭",
       "type": 3,
       "api": "csp_Funletu",
+      "jar":"./pg.jar"
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -741,6 +758,7 @@
       "name": "🎥影视┃推送",
       "type": 3,
       "api": "csp_Push",
+      "jar":"./pg.jar"
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
