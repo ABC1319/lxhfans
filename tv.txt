@@ -58,17 +58,6 @@
       "ext": "./JS/yysd.json",
       "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
-    {
-      "key": "玩偶OG",
-      "name": "玩偶┃OG",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
-      "ext": "./JS/gg.json"
-    },
    {
       "key": "玩偶哥哥PG",
       "name": "玩偶┃PG",
@@ -93,7 +82,7 @@
     },
    {
       "key": "Wogg",
-      "name": "玩偶┃PX",
+      "name": "玩偶┃PB",
       "type": 3,
       "style": {
         "type": "rect",
@@ -102,6 +91,44 @@
       "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
+    },
+    {
+      "key": "Wobg",
+      "name": "玩偶┃BP",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
+    },
+    {
+      "key": "玩偶OG",
+      "name": "玩偶┃OG",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
+      "ext": "./JS/gg.json"
+    },
+   {
+      "key": "Wogg1",
+      "name": "玩偶┃GG",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": false
+      },
+      "jar": "./jar/danmu.jar"
     },
     {
             "key": "csp_WoGG1",
@@ -135,18 +162,6 @@
             "filterable": 1,
             "jar": "./jar/xyq.jar",
             "ext": "./JS/玩偶哥哥.json"
-    },
-    {
-      "key": "Wobg",
-      "name": "玩偶┃BX",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./jar/pg.jar",
-      "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
     },
    {
       "key": "初见表哥",
@@ -184,21 +199,6 @@
      "filterable": 1,
      "jar": "./JS/rski.js",
      "ext": "7984abb3f03c447196459eebd03eda63" 
-    },
-    {
-      "key": "Wogg1",
-      "name": "玩偶┃GG",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "filter": "./JS/wogg.json",
-        "danmu": false
-      },
-      "jar": "./jar/danmu.jar"
     },
     {
       "key": "玩偶弹幕版",
