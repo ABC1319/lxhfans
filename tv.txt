@@ -81,6 +81,36 @@
       "timeout": 60
     },
    {
+      "key": "玩偶弹幕版OK",
+      "name": "玩偶┃OK",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./ok.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": true
+      }
+    },
+   {
+      "key": "玩偶表哥弹幕OK",
+      "name": "玩偶┃KG",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./ok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      }
+    },
+   {
       "key": "Wogg",
       "name": "玩偶┃PB",
       "type": 3,
