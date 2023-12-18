@@ -88,7 +88,6 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
@@ -100,7 +99,6 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
     },
