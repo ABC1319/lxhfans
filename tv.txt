@@ -461,163 +461,20 @@
       }
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "爱爱(官)",
-      "type": 3,
-      "api": "http://122.51.37.23/man/js/lib/man.js",
-      "ext": "http://122.51.37.23/man/js/爱奇艺.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "优优(官)",
-      "type": 3,
-      "api": "http://122.51.37.23/man/js/lib/man.js",
-      "ext": "http://122.51.37.23/man/js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾腾(官)",
-      "type": 3,
-      "api": "http://122.51.37.23/man/js/lib/man.js",
-      "ext": "http://122.51.37.23/man/js/腾讯.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "芒芒(官)",
-      "type": 3,
-      "api": "http://122.51.37.23/man/js/lib/man.js",
-      "ext": "http://122.51.37.23/man/js/芒果.js"
-    },
-    {
-      "key": "sohu",
-      "name": "搜搜(官)",
-      "type": 1,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },  
-    {
-     "key":"SG",
-     "name":"狗狗(官)",
-     "type":3,
-     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
-     "ext":"http://vip.weixine.link:88/js/caigou.js"
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "360(官)",
-      "type": 3,
-      "api": "http://122.51.37.23/man/js/lib/man.js",
-      "ext": "http://122.51.37.23/man/js/360.js"
-    },
-    {
-      "key": "春哥☆自营",
-      "name": "自营┃CG",
-      "type": 1,
-      "api": "http://mfsj.kele.plus/api.php/provide/vod/",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "电影",
-        "连续剧",
-        "少儿",
-        "动漫",
-        "综艺",
-        "体育赛事"
-      ]
-    },
-   {
-      "key": "乐享采集",
-      "name": "自营┃YS",
-      "type": 1,
-      "api": "http://ys.540734621.xyz/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺",
-        "记录片",
-        "音乐",
-        "影视解说",
-        "体育"
-      ]
-    },
-   {
-      "key": "快看采集",
-      "name": "自营┃KK",
-      "type": 1,
-      "api": "http://yyfx.540734621.xyz/api.php/provide/vod/",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日本剧",
-        "欧美剧",
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "灾难片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "战争片",
-        "惊悚片",
-        "冒险片",
-        "网络电影",
-        "短剧",
-        "歌舞音乐",
-        "体育"
-      ]
-    },
-  {
-      "key": "360",
-      "name": "🐵360┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
-    },
-    {
-      "key": "酷酷",
-      "name": "🦝酷酷┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
-    {
       "key": "奇艺",
-      "name": "🦁奇艺┃官源",
+      "name": "🦁爱爱┃官源",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/奇珍异兽.js"
     },
     {
-      "key": "芒芒",
-      "name": "🦄芒芒┃官源",
+      "key": "酷酷",
+      "name": "🦝优优┃官源",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "ext": "./lib/优酷.js"
     },
     {
       "key": "腾腾",
@@ -628,12 +485,37 @@
       "ext": "./lib/腾云驾雾.js"
     },
     {
+      "key": "芒芒",
+      "name": "🦄芒芒┃官源",
+      "type": 3,
+      "changeable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
+    },
+    {
+      "key": "sohu",
+      "name": "搜搜(官)",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },  
+   {
       "key": "狗狗",
       "name": "🐕狗狗┃官源",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/菜狗.js"
+    },
+  {
+      "key": "360",
+      "name": "🐵360┃官源",
+      "type": 3,
+      "changeable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/360影视.js"
     },
     {
       "key": "路飞磁力",
