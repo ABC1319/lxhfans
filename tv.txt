@@ -36,15 +36,18 @@
      "jar":"./jar/alisz.jar"
     },
     {
-     "key":"配置中心",
-     "name":"💾云盘配置",
-     "type":3,
-     "api":"csp_Config",
-     "searchable":0,
-     "changeable":0,
-     "style":{"type":"rect","ratio":1.597},
-     "jar":"./HK/danmu.jar;md5;7cd8fbcc323844e2525595be4d5aa7eb"
-     },
+      "key": "配置中心",
+      "name": "🏬配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./lib/PG推送.json"
+    },
      {
       "key": "应用商店",
       "name": "🏫应用商店",
