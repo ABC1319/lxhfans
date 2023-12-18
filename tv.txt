@@ -555,7 +555,7 @@
       },
       "jar": "./jar/danmu.jar"
     },
-  {
+    {
       "key": "纸条弹幕版",
       "name": "纸条DM┃🍭",
       "type": 3,
@@ -569,7 +569,59 @@
       },
       "jar": "./jar/danmu.jar"
     },
- {
+    {
+      "key": "易搜XB",
+      "name": "🛸易搜┃🍭",
+      "type": 3,
+      "api": "csp_YiSo",
+      "jar":"./pg.jar",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
+      "timeout": 60
+    },
+    {
+      "key": "小云",
+      "name": "🛺云搜┃🍭",
+      "type": 3,
+      "api": "csp_YunSo",
+      "jar":"./pg.jar",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "盘搜索",
+      "name": "🚢盘搜┃🍭",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar":"./pg.jar",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "小纸条XB",
+      "name": "🚃纸条┃🍭",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "jar":"./pg.jar",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+   {
       "key":"七夜",
       "name":"七夜┃🍭",
       "type":3,
@@ -645,19 +697,6 @@
       "timeout": 60
     },
     {
-      "key": "小云",
-      "name": "🛺小云┃🍭",
-      "type": 3,
-      "api": "csp_YunSo",
-      "jar":"./pg.jar",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
       "key": "七夜XB",
       "name": "🚲七夜┃🍭",
       "type": 3,
@@ -671,49 +710,10 @@
       "timeout": 60
     },
     {
-      "key": "易搜XB",
-      "name": "🛸易搜┃🍭",
-      "type": 3,
-      "api": "csp_YiSo",
-      "jar":"./pg.jar",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
-      "timeout": 60
-    },
-    {
       "key": "Up搜XB",
       "name": "🚁Up搜┃🍭",
       "type": 3,
       "api": "csp_UpYun",
-      "jar":"./pg.jar",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "盘搜索",
-      "name": "🚢盘搜┃🍭",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar":"./pg.jar",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "小纸条XB",
-      "name": "🚃纸条┃🍭",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
       "jar":"./pg.jar",
       "changeable": 0,
       "searchable": 1,
