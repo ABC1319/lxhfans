@@ -326,7 +326,7 @@
     },
     {
       "key": "4KHDR网盘",
-      "name": "4KHDR┃网盘",
+      "name": "四开┃网盘",
       "type": 3,
       "api": "csp_FourKHDR",
       "searchable": 1,
@@ -338,7 +338,7 @@
     },
     {
       "key": "xb6v磁力",
-      "name": "新6v┃网盘",
+      "name": "六维┃网盘",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
