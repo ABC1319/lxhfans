@@ -358,7 +358,7 @@
       "ext": "./lib/PG推送.json$$$null$$$1",
       "timeout": 60
     },
-    {
+   {
       "key": "sohu",
       "name": "搜搜┃(官)",
       "type": 1,
@@ -367,55 +367,48 @@
       "quickSearch": 1,
       "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },  
-   {
-      "key": "狗狗",
-      "name": "狗狗┃(官)",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/菜狗.js"
+    {
+     "key":"SG",
+     "name":"狗狗┃(官)",
+     "type":3,
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/js/caigou.js"
     },
-  {
-      "key": "360",
+    {
+      "key": "drpy_js_360影视",
       "name": "360┃(官)",
       "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
+      "api": "http://122.51.37.23/man/js/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/360.js"
     },
     {
-      "key": "奇艺",
+      "key": "drpy_js_奇珍异兽",
       "name": "爱爱┃(官)",
       "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "api": "http://122.51.37.23/man/js/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/爱奇艺.js"
     },
     {
-      "key": "酷酷",
+      "key": "drpy_js_优酷",
       "name": "优优┃(官)",
       "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api": "http://122.51.37.23/man/js/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/优酷.js"
     },
     {
-      "key": "腾腾",
+      "key": "drpy_js_腾云驾雾",
       "name": "腾腾┃(官)",
       "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "api": "http://122.51.37.23/man/js/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/腾讯.js"
     },
     {
-      "key": "芒芒",
+      "key": "drpy_js_百忙无果",
       "name": "芒芒┃(官)",
       "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "api": "http://122.51.37.23/man/js/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/芒果.js"
     },
-
    
   
 #云盘搜索
