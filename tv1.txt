@@ -58,6 +58,52 @@
       "ext": "./JS/yysd.json",
       "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
+   {
+      "key": "玩偶哥哥PG",
+      "name": "玩偶┃PG",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/PG推送.json$$$https://api.wogg.xyz/$$$null$$$1",
+      "timeout": 60
+    },
+    {
+      "key": "玩偶表哥PG",
+      "name": "玩偶┃BG",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./lib/PG推送.json$$$https://wobge.run.goorm.io$$$1",
+      "timeout": 60
+    },
+   {
+      "key": "Wogg",
+      "name": "玩偶┃PB",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wogg",
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
+    },
+    {
+      "key": "Wobg",
+      "name": "玩偶┃BP",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
+    },
     {
       "key": "玩偶OG",
       "name": "玩偶┃OG",
@@ -70,38 +116,19 @@
       "ext": "./JS/gg.json"
     },
    {
-      "key": "玩偶哥哥PG",
-      "name": "👽玩偶┃网盘",
+      "key": "Wogg1",
+      "name": "玩偶┃GG",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/PG推送.json$$$https://api.wogg.xyz/$$$null$$$1",
-      "timeout": 60
-    },
-    {
-      "key": "玩偶表哥PG",
-      "name": "🐷表哥┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/PG推送.json$$$https://wobge.run.goorm.io$$$1",
-      "timeout": 60
-    },
-   {
-      "key": "Wogg",
-      "name": "玩偶┃PG",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": false
       },
-      "jar": "./jar/pg.jar",
-      "api": "csp_Wogg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
+      "jar": "./jar/danmu.jar"
     },
     {
             "key": "csp_WoGG1",
@@ -135,18 +162,6 @@
             "filterable": 1,
             "jar": "./jar/xyq.jar",
             "ext": "./JS/玩偶哥哥.json"
-    },
-    {
-      "key": "Wobg",
-      "name": "玩偶┃BG",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./jar/pg.jar",
-      "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
     },
    {
       "key": "初见表哥",
@@ -186,21 +201,6 @@
      "ext": "7984abb3f03c447196459eebd03eda63" 
     },
     {
-      "key": "Wogg1",
-      "name": "玩偶┃GG",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "filter": "./JS/wogg.json",
-        "danmu": false
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
       "key": "玩偶弹幕版",
       "name": "玩偶┃DM",
       "type": 3,
@@ -214,36 +214,6 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
-    },
-    {
-      "key": "玩偶弹幕版2",
-      "name": "玩偶┃OK",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/ok.png;md5;024444F5BDB551B95CA5E9145348B899",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "filter": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/JS/wogg.json",
-        "danmu": true
-      }
-    },
-   {
-      "key": "玩偶表哥弹幕",
-      "name": "玩偶┃KG",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/ok.png;md5;024444F5BDB551B95CA5E9145348B899",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
-        "danmu": true
-      }
     },
     {
             "key": "csp_woggcli",
@@ -343,16 +313,6 @@
       "timeout": 60
     },
     {
-      "key": "97tvs磁力",
-      "name": "🍑97tvs┃磁力",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/97tvs.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
       "key": "xb6v磁力",
       "name": "🍇新6v┃磁力",
       "type": 3,
@@ -362,48 +322,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "./lib/PG推送.json$$$http://www.xb6v.com$$$null$$$1",
-      "timeout": 60
-    },
-    {
-      "key": "荐片磁力",
-      "name": "🍈荐片┃磁力",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./json/jianpian.json$$$1",
-      "timeout": 60
-    },
-    {
-      "key": "dydhhy磁力",
-      "name": "🍅dydhhy┃磁力",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/dydhhy.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "rrdyw网盘",
-      "name": "🚒rrdyw┃网盘",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/rrdyw.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "kkpans网盘",
-      "name": "🚟kk盘┃网盘",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/kkpans.js",
-      "quickSearch": 1,
-      "changeable": 0,
       "timeout": 60
     },
     {
@@ -443,58 +361,8 @@
       "timeout": 60
     },
     {
-      "key": "哔哩哔哩",
-      "name": "🍻哔哩┃官源",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "filterable": 1,
-      "ext": {
-        "type": "帕梅拉#太极拳#广场舞#演唱会",
-        "cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; rpdid=|(ku|kk~Y)|~0J'uYY)~R|Ruu; header_theme_version=CLOSE; PVID=1; b_ut=7; FEED_LIVE_VERSION=V8; CURRENT_BLACKGAP=0; buvid4=3A49A725-00D0-2AF2-7037-F442C85F130937725-022100900-zOXW6fOdu77ioX%2BIVm0nwA%3D%3D; CURRENT_FNVAL=4048; CURRENT_PID=84a2a660-ed72-11ed-b29f-d7eaa4f43fe4; DedeUserID=186957646; DedeUserID__ckMd5=4f717c8832ee1e62; fingerprint=897afd4309fbe2ed5e13fb6270005878; buvid3=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc; b_nut=1696324033; _uuid=66C37D101-DB12-BDC3-810F1-8D436BE38D2728848infoc; enable_web_push=DISABLE; hit-dyn-v2=1; SESSDATA=9b327945%2C1714974476%2Ccb805%2Ab1CjA2WAxutL1bTRb56KZ1S5dSGsQGzF9HCE7rIfu03JIwvKRMC6ZXTvcDIbFm9xPJ0eISVkFrd1NCYXFSQVRqWUlqNkRUNFRIVThvRVVGS19BNmFxRUlsdEJ6em5idGZKMWNQaDltaUFjTktYMnd3UG5HRmU4ZlJxeUNES3M3azlTaTM5WnNVMnhRIIEC; bili_jct=a6c64edb1476057eeac05b0159847f33; sid=4ifd20fl; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTk2ODE2OTMsImlhdCI6MTY5OTQyMjQzMywicGx0IjotMX0.tkvMAMSnTW_wLxg_frApN_UO6SdowP7x4JkRCwW13JI; bili_ticket_expires=1699681633; innersign=0; b_lsid=78BCA892_18BB2A38BD2; bp_video_offset_186957646=857545634320744550; home_feed_column=4; browser_resolution=819-1292; buvid_fp=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc"
-      }
-    },
-    {
-      "key": "奇艺",
-      "name": "🦁爱爱┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
-    },
-    {
-      "key": "酷酷",
-      "name": "🦝优优┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
-    {
-      "key": "腾腾",
-      "name": "🐏腾腾┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
-    },
-    {
-      "key": "芒芒",
-      "name": "🦄芒芒┃官源",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
-    },
-    {
       "key": "sohu",
-      "name": "搜搜(官)",
+      "name": "搜搜┃(官)",
       "type": 1,
       "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
       "searchable": 1,
@@ -503,7 +371,7 @@
     },  
    {
       "key": "狗狗",
-      "name": "🐕狗狗┃官源",
+      "name": "🐕狗狗┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -511,178 +379,47 @@
     },
   {
       "key": "360",
-      "name": "🐵360┃官源",
+      "name": "🐵360┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视.js"
     },
     {
-      "key": "路飞磁力",
-      "name": "🍒路飞┃磁力",
+      "key": "奇艺",
+      "name": "🦁爱爱┃(官)",
       "type": 3,
-      "searchable": 1,
       "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/lf_p2p2_min.js",
-      "ext": "",
-      "timeout": 60
-    },
-    {
-      "key": "人人影视",
-      "name": "🚛人人┃网盘",
-      "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/yyets.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
+      "ext": "./lib/奇珍异兽.js"
     },
     {
-      "key": "夸克盘搜",
-      "name": "🦽夸克┃网盘",
+      "key": "酷酷",
+      "name": "🦝优优┃(官)",
       "type": 3,
-      "api": "csp_QuarkPanSo",
       "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "云盘资源",
-      "name": "🎠云盘┃网盘",
-      "type": 3,
-      "api": "csp_YunPanOne",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "小云",
-      "name": "🛺小云┃网盘",
-      "type": 3,
-      "api": "csp_YunSo",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "七夜",
-      "name": "🚲七夜┃网盘",
-      "type": 3,
-      "api": "csp_Dovx",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "易搜",
-      "name": "🛸易搜┃网盘",
-      "type": 3,
-      "api": "csp_YiSo",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
-      "timeout": 60
-    },
-    {
-      "key": "Up搜",
-      "name": "🚁Up搜┃网盘",
-      "type": 3,
-      "api": "csp_UpYun",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "盘搜索",
-      "name": "🚢盘搜┃网盘",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "小纸条",
-      "name": "🚃纸条┃网盘",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "喵狸",
-      "name": "🚂喵狸┃网盘",
-      "type": 3,
-      "api": "csp_PanSou",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
-    },
-    {
-      "key": "爱盘搜",
-      "name": "🛴爱盘┃网盘",
-      "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aipanso.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
+      "ext": "./lib/优酷.js"
     },
     {
-      "key": "趣盘搜",
-      "name": "🏍趣盘┃网盘",
+      "key": "腾腾",
+      "name": "🐏腾腾┃(官)",
       "type": 3,
-      "api": "csp_Funletu",
       "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "timeout": 60
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云驾雾.js"
     },
     {
-      "key": "push_agent",
-      "name": "🎥影视┃推送",
+      "key": "芒芒",
+      "name": "🦄芒芒┃(官)",
       "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/PG推送.json",
-      "timeout": 60
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
     },
 
+   
   
-
-
 #云盘搜索
 
    {
@@ -865,6 +602,158 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+ {
+      "key": "路飞磁力",
+      "name": "🍒路飞┃🍭",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lib/lf_p2p2_min.js",
+      "ext": "",
+      "timeout": 60
+    },
+    {
+      "key": "夸克盘搜",
+      "name": "🦽夸克┃🍭",
+      "type": 3,
+      "api": "csp_QuarkPanSo",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "云盘资源",
+      "name": "🎠云盘┃🍭",
+      "type": 3,
+      "api": "csp_YunPanOne",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "小云",
+      "name": "🛺小云┃🍭",
+      "type": 3,
+      "api": "csp_YunSo",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "七夜XB",
+      "name": "🚲七夜┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "易搜XB",
+      "name": "🛸易搜┃🍭",
+      "type": 3,
+      "api": "csp_YiSo",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
+      "timeout": 60
+    },
+    {
+      "key": "Up搜XB",
+      "name": "🚁Up搜┃🍭",
+      "type": 3,
+      "api": "csp_UpYun",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "盘搜索",
+      "name": "🚢盘搜┃🍭",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "小纸条XB",
+      "name": "🚃纸条┃🍭",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "喵狸",
+      "name": "🚂喵狸┃🍭",
+      "type": 3,
+      "api": "csp_PanSou",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
+    },
+    {
+      "key": "爱盘搜",
+      "name": "🛴爱盘┃🍭",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aipanso.js",
+      "quickSearch": 1,
+      "changeable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "趣盘搜",
+      "name": "🏍趣盘┃🍭",
+      "type": 3,
+      "api": "csp_Funletu",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "push_agent",
+      "name": "🎥影视┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/PG推送.json",
+      "timeout": 60
     },
     {
       "key": "cc1",
